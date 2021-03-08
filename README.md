@@ -1,2 +1,2 @@
-# keylogger
- keylogger made in python (wip)
+# Keylogger
+Simple keylogger made in python
